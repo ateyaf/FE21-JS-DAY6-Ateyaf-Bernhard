@@ -1,0 +1,72 @@
+let employees = `
+  [{
+      "Unique_ID": "11",
+      "First_Name" : "Patrik",
+      "Last_Name": "Jonathan",
+      "Email_address" : "patrik.k.jonathan@gmail.com",
+      "Job_Title ": "Developer",
+      "Salary": "1000$"
+  }, {
+    "Unique_ID": "22",
+    "First_Name" : "Tom ",
+    "Last_Name": "Irani",
+    "Email_address" : "tomrirani@gmail.com",
+    "Job_Title ": "Analyst",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "33",
+    "First_Name" : "Tom ",
+    "Last_Name": "Hanks",
+    "Email_address" : "tomhanks@gmail.com",
+    "Job_Title ": "Actor",
+    "Salary": "1000000$"
+  } ,{
+    "Unique_ID": "44",
+    "First_Name" : " Mary Elizabeth",
+    "Last_Name": "Jonathan",
+    "Email_address" : "patrik.k.jonathan@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "55",
+    "First_Name" : "Liz Smith",
+    "Last_Name": "Smith",
+    "Email_address" : "liz.smith@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "66",
+    "First_Name" : "María ",
+    "Last_Name": "marries",
+    "Email_address" : "María.marries@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "77",
+    "First_Name" : "Xiao ",
+    "Last_Name": "Ping",
+    "Email_address" : "xiao.ping@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "88",
+    "First_Name" : "marek ",
+    "Last_Name": "tomas",
+    "Email_address" : "marek.tomas@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "99",
+    "First_Name" : "Roan ",
+    "Last_Name": "Jonathan",
+    "Email_address" : "roan.jonathan@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }, {
+    "Unique_ID": "1010",
+    "First_Name" : "Lina",
+    "Last_Name": "Jon",
+    "Email_address" : "lina.jon@gmail.com",
+    "Job_Title ": "Developer",
+    "Salary": "1000$"
+  }]`
